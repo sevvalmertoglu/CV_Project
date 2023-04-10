@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(sevval.jpg);
+    background-size: cover;
+}
+
+.box {
+    width: 450px;
+    background: #8b4513;
+    border-radius: 10%;
+    padding: 40px; /* ortadaki boxta köşelerde boşluk bırakmak için */
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+
+}
+
+.box img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
